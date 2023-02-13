@@ -14,6 +14,7 @@ import lombok.Data;
 @Entity
 @Table(name="visiting")
 @Data
+// Hiii  HelLOO nskjnd
 public class Visiting {
 
 	
