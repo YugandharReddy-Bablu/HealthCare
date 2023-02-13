@@ -12,6 +12,7 @@ import lombok.Data;
 @Entity
 @Table(name="patient")
 @Data
+//HNDB njkk KNKNLNOIini
 public class Patient {
 	
 	
